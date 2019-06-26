@@ -1,3 +1,6 @@
+-- Vicfred
+-- https://codeforces.com/problemset/problem/158/A
+
 main = do
     input <- getLine
     let [n, k] = map read (words input)
