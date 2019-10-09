@@ -19,3 +19,7 @@ runhaskell sourcefile.hs
 [Way Too Long Words](src/waytoolongwords.hs) guards, getContents, lines, unlines, head, last
 
 [Way Too Long Words](src/waytoolongwords_.hs) conditionals, replicateM, sequence_
+
+[Next Round](src/nextround.hs) foldl, lambda, conditionals, show, map, read, words, getLine
+
+[Next Round](src/nextround_.hs) filter, lambda, conditionals, show, map, read, words, getLine
