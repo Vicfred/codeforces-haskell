@@ -5,3 +5,5 @@ Tried to be as simple and clear as possible in the solutions, the problems are i
 
 # Index with topic
 [Watermelon](watermelon.hs) conditionals, function composition(dot notation), $ notation
+
+[Theatre Square](theatresquare.hs) do notation, map, read, words, $ notation
