@@ -14,3 +14,4 @@ main = do
     inputs <- replicateM (read n) getLine
     let answers = map solve inputs
     sequence_ (map putStrLn answers)
+

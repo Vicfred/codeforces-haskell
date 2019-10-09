@@ -11,4 +11,3 @@ main =  do
     words <- getContents
     putStrLn . unlines . map transform . lines $ words
 
-
