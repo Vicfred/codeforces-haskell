@@ -8,3 +8,4 @@ main = do
     let l = map read (words input2)
     let cutoff = max 1 (l !! (k - 1))
     putStrLn $ show (length $ filter (\x -> x >= cutoff) l)
+
