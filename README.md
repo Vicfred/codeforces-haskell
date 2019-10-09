@@ -13,3 +13,5 @@ runhaskell sourcefile.hs
 [Watermelon](src/watermelon.hs) conditionals, function composition(dot notation), $ notation
 
 [Theatre Square](src/theatresquare.hs) do notation, map, read, words, $ notation
+
+[Way Too Long Words](src/waytoolongwords.hs) guards, getContents, lines, unlines, head, last
