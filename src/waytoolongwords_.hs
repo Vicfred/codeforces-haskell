@@ -1,4 +1,3 @@
--- Vicfred
 -- https://codeforces.com/contest/71/problem/A
 
 import Control.Monad
