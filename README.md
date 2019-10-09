@@ -6,7 +6,7 @@ Tried to be as simple and clear as possible in the solutions, the problems are i
 I solved some problems using different methods so they are listed more than once.
 
 # Try it!
-The problem statement is included in each source file and you can run the code yourself using:
+The problem statement is included in each source file and you can run the code (with GHC installed) yourself using:
 ```
 runhaskell sourcefile.hs
 ```
