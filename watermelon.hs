@@ -2,4 +2,5 @@
 f :: Int -> String
 f x = if x >= 4 && even x then "YES" else "NO"
 
+main :: IO ()
 main = interact $ f . read
