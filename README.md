@@ -17,3 +17,5 @@ runhaskell sourcefile.hs
 [Theatre Square](src/theatresquare.hs) do notation, map, read, words, $ notation
 
 [Way Too Long Words](src/waytoolongwords.hs) guards, getContents, lines, unlines, head, last
+
+[Way Too Long Words](src/waytoolongwords_.hs) conditionals, replicateM, sequence_
