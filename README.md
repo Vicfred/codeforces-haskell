@@ -10,6 +10,6 @@ runhaskell sourcefile.hs
 ```
 
 # Index with topic
-[Watermelon](watermelon.hs) conditionals, function composition(dot notation), $ notation
+[Watermelon](src/watermelon.hs) conditionals, function composition(dot notation), $ notation
 
-[Theatre Square](theatresquare.hs) do notation, map, read, words, $ notation
+[Theatre Square](src/theatresquare.hs) do notation, map, read, words, $ notation
