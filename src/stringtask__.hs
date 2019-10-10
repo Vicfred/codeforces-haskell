@@ -1,4 +1,3 @@
--- Vicfred
 -- https://codeforces.com/problemset/problem/118/A
 
 import Data.Char
@@ -6,6 +5,8 @@ import Data.Char
 convert :: String -> String
 convert target = concat [['.', x] | x <- (map toLower target), not(x `elem` "aeiouy")]
 
+main :: IO ()
 main = do
     s <- getLine
     putStrLn $ convert s
+
