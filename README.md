@@ -5,6 +5,9 @@ Tried to be as simple and clear as possible in the solutions, the problems are i
 
 I solved some problems using different methods so they are listed more than once.
 
+# Audience
+People who have read or are reading [Learn you a Haskell](http://learnyouahaskell.com/) or [CIS 194](https://www.seas.upenn.edu/~cis194/spring13/lectures.html) (Recommended resources)
+
 # Try it!
 The problem statement is included in each source file and you can run the code (with GHC installed) yourself using:
 ```
