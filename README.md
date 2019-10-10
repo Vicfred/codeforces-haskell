@@ -23,3 +23,12 @@ runhaskell sourcefile.hs
 [Next Round](src/nextround.hs) foldl, lambda, conditionals, show, map, read, words, getLine
 
 [Next Round](src/nextround_.hs) filter, lambda, conditionals, show, map, read, words, getLine
+
+[String Task](src/stringtask.hs) intersperse, filter, notElem, flip
+
+[String Task](src/stringtask_.hs) guards, foldr, elem
+
+[String Task](src/stringtask__.hs) list comprehensions, concat, elem
+
+[String Task](src/stringtask___.hs) point free notation, concatMap
+
