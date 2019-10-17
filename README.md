@@ -38,3 +38,9 @@ runhaskell sourcefile.hs
 [Team](src/team.hs) *getList*, fmap, filter, replicateM
 
 [Team](src/team_.hs) point free notation, $ notation
+
+[Domino piling](src/dominopiling.hs) *getList*, pattern matching, putStrLn
+
+[Domino piling](src/dominopiling_.hs) interact, function currying, $ notation
+
+[Domino piling](src/dominopiling__.hs) print, getLine, =<< operator
