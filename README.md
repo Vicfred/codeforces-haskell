@@ -35,3 +35,6 @@ runhaskell sourcefile.hs
 
 [String Task](src/stringtask___.hs) point free notation, concatMap
 
+[Team](src/team.hs) *getList*, fmap, filter, replicateM
+
+[Team](src/team_.hs) point free notation, $ notation
