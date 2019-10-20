@@ -47,3 +47,5 @@ runhaskell sourcefile.hs
 
 [Bit++](src/bitpp.hs) pattern matching, recursion, conditionals, show, tail, lines, interact
 
+[Petya and Strings](src/petyaandstrings.hs) pattern matching, lines, map, toUpper, show, interact
+
