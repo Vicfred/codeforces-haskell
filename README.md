@@ -14,7 +14,7 @@ The problem statement is included in each source file and you can run the code (
 runhaskell sourcefile.hs
 ```
 
-# Index with topic
+# Index with topics
 [Watermelon](src/watermelon.hs) conditionals, function composition(dot notation), $ notation
 
 [Theatre Square](src/theatresquare.hs) do notation, map, read, words, $ notation
