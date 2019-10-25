@@ -1,4 +1,3 @@
--- Vicfred
 -- https://codeforces.com/problemset/problem/189/A
 
 import Data.Array
@@ -15,3 +14,4 @@ main :: IO ()
 main = do
     n:ls <- map read . words <$> getLine :: IO [Int]
     print $ solve n ls
+
